@@ -1,6 +1,5 @@
 Crimson
 Orange
-Green
 Cyan
 Yellow
 Ivory
@@ -11,3 +10,5 @@ Fuchsia
 Gray
 Brown
 Red
+Blue
+Blablabla
